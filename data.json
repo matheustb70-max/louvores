@@ -7,7 +7,17 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "1",
+      "number": 1,
+      "tones": {}
+    },
+    {
+      "name": "Digno é o Senhor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 2,
       "tones": {}
     },
     {
@@ -17,7 +27,17 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "3",
+      "number": 3,
+      "tones": {}
+    },
+    {
+      "name": "Meu Prazer (Em Espírito e em Verdade)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 4,
       "tones": {}
     },
     {
@@ -27,7 +47,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "5",
+      "number": 5,
       "tones": {}
     },
     {
@@ -37,7 +57,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "6",
+      "number": 6,
       "tones": {}
     },
     {
@@ -47,7 +67,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "7",
+      "number": 7,
       "tones": {}
     },
     {
@@ -57,7 +77,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "8",
+      "number": 8,
       "tones": {}
     },
     {
@@ -67,7 +87,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "9",
+      "number": 9,
       "tones": {}
     },
     {
@@ -77,7 +97,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "10",
+      "number": 10,
       "tones": {}
     },
     {
@@ -87,7 +107,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "11",
+      "number": 11,
       "tones": {}
     },
     {
@@ -97,7 +117,27 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "12",
+      "number": 12,
+      "tones": {}
+    },
+    {
+      "name": "Eu te amo tanto",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 13,
+      "tones": {}
+    },
+    {
+      "name": "Eu Escolho Te Louvar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 14,
       "tones": {}
     },
     {
@@ -107,7 +147,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "15",
+      "number": 15,
       "tones": {}
     },
     {
@@ -117,7 +157,27 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "16",
+      "number": 16,
+      "tones": {}
+    },
+    {
+      "name": "Ele é Exaltado",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 17,
+      "tones": {}
+    },
+    {
+      "name": "Grande é o Senhor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 18,
       "tones": {}
     },
     {
@@ -127,7 +187,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "19",
+      "number": 19,
       "tones": {}
     },
     {
@@ -137,7 +197,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "20",
+      "number": 20,
       "tones": {}
     },
     {
@@ -147,7 +207,37 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "21",
+      "number": 21,
+      "tones": {}
+    },
+    {
+      "name": "Obrigado Jesus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 22,
+      "tones": {}
+    },
+    {
+      "name": "O melhor lugar do Mundo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 23,
+      "tones": {}
+    },
+    {
+      "name": "Abraça-me - Quero ser como criança",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 24,
       "tones": {}
     },
     {
@@ -157,7 +247,17 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "25",
+      "number": 25,
+      "tones": {}
+    },
+    {
+      "name": "Quando Jesus Estendeu Sua Mão",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 26,
       "tones": {}
     },
     {
@@ -167,597 +267,17 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "27",
+      "number": 27,
       "tones": {}
     },
     {
-      "name": "O cálice",
+      "name": "Ousado amor",
       "author": "",
       "band": "",
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "33",
-      "tones": {}
-    },
-    {
-      "name": "Ensina-me",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "36",
-      "tones": {}
-    },
-    {
-      "name": "Jubilosos te adoramos",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "37",
-      "tones": {}
-    },
-    {
-      "name": "Tu és minha vida",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "38",
-      "tones": {}
-    },
-    {
-      "name": "Não tardará",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "39",
-      "tones": {}
-    },
-    {
-      "name": "O Nosso General é Cristo",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "40",
-      "tones": {}
-    },
-    {
-      "name": "Eu navegarei",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "41",
-      "tones": {}
-    },
-    {
-      "name": "Buscai primeiro o reino de Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "42",
-      "tones": {}
-    },
-    {
-      "name": "Um coração para amar",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "43",
-      "tones": {}
-    },
-    {
-      "name": "Sou um Milagre",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "49",
-      "tones": {}
-    },
-    {
-      "name": "Frutos do Espírito",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "50",
-      "tones": {}
-    },
-    {
-      "name": "Jesus Cristo mudou meu viver",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "51",
-      "tones": {}
-    },
-    {
-      "name": "Sonda-me, usa-me",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "52",
-      "tones": {}
-    },
-    {
-      "name": "Move as águas",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "53",
-      "tones": {}
-    },
-    {
-      "name": "Vem está é a hora",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "57",
-      "tones": {}
-    },
-    {
-      "name": "Deus é fiel",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "58",
-      "tones": {}
-    },
-    {
-      "name": "Plano Perfeito",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "59",
-      "tones": {}
-    },
-    {
-      "name": "Nos braços do Pai",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "60",
-      "tones": {}
-    },
-    {
-      "name": "Tudo o que sou",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "62",
-      "tones": {}
-    },
-    {
-      "name": "Madeiro Lavrado",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "64",
-      "tones": {}
-    },
-    {
-      "name": "Mandamento de amor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "65",
-      "tones": {}
-    },
-    {
-      "name": "Como zaqueu",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "67",
-      "tones": {}
-    },
-    {
-      "name": "Cura Senhor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "68",
-      "tones": {}
-    },
-    {
-      "name": "Meu barquinho",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "70",
-      "tones": {}
-    },
-    {
-      "name": "Rosa Vermelha",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "71",
-      "tones": {}
-    },
-    {
-      "name": "Soldado Ferido",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "73",
-      "tones": {}
-    },
-    {
-      "name": "Renova-me",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "74",
-      "tones": {}
-    },
-    {
-      "name": "A ti meu Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "75",
-      "tones": {}
-    },
-    {
-      "name": "Bem vindo a família",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "76",
-      "tones": {}
-    },
-    {
-      "name": "Ao único",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "82",
-      "tones": {}
-    },
-    {
-      "name": "Flua",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "86",
-      "tones": {}
-    },
-    {
-      "name": "Hosana",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "87",
-      "tones": {}
-    },
-    {
-      "name": "Há um barco esquecido na praia",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "90",
-      "tones": {}
-    },
-    {
-      "name": "Meu Universo",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "93",
-      "tones": {}
-    },
-    {
-      "name": "Santidade",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "98",
-      "tones": {}
-    },
-    {
-      "name": "Quem pode livrar como o Senhor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "106",
-      "tones": {}
-    },
-    {
-      "name": "Te agradeço",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "107",
-      "tones": {}
-    },
-    {
-      "name": "Só em Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "108",
-      "tones": {}
-    },
-    {
-      "name": "Jesus Virá",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "111",
-      "tones": {}
-    },
-    {
-      "name": "Agnus Dei",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "113",
-      "tones": {}
-    },
-    {
-      "name": "Andam Procurando",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "201",
-      "tones": {}
-    },
-    {
-      "name": "Doce Amor de Meu Mestre",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "204",
-      "tones": {}
-    },
-    {
-      "name": "Reunidos Aqui",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "209",
-      "tones": {}
-    },
-    {
-      "name": "Tu És Santo",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "210",
-      "tones": {}
-    },
-    {
-      "name": "Meu pensamento é para Ti",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "212",
-      "tones": {}
-    },
-    {
-      "name": "Aleluia, Cristo Vivo Está",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "222",
-      "tones": {}
-    },
-    {
-      "name": "Louvado Seja o Meu Senhor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "224",
-      "tones": {}
-    },
-    {
-      "name": "Eu Te Quero",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "228",
-      "tones": {}
-    },
-    {
-      "name": "Tu És Senhor do Universo",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "229",
-      "tones": {}
-    },
-    {
-      "name": "A Minha Vida Jesus Já Transformou",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "230",
-      "tones": {}
-    },
-    {
-      "name": "Sua Vida É Para Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "231",
-      "tones": {}
-    },
-    {
-      "name": "Alegrai-vos Sempre no Senhor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "234",
-      "tones": {}
-    },
-    {
-      "name": "O Nosso Encontro Vai Ser Abençoado",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "235",
-      "tones": {}
-    },
-    {
-      "name": "Único Caminho",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "239",
-      "tones": {}
-    },
-    {
-      "name": "Vitória no Deserto",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "242",
-      "tones": {}
-    },
-    {
-      "name": "Vou Te Alegrar",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "245",
-      "tones": {}
-    },
-    {
-      "name": "Se Eu Me Humilhar",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "246",
-      "tones": {}
-    },
-    {
-      "name": "Que a Paz de Deus Reine",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "250",
-      "tones": {}
-    },
-    {
-      "name": "Com Muito Louvor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "251",
+      "number": 28,
       "tones": {}
     },
     {
@@ -767,87 +287,7 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "253",
-      "tones": {}
-    },
-    {
-      "name": "Uma Nova História",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "255",
-      "tones": {}
-    },
-    {
-      "name": "Nada Além do Sangue",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "256",
-      "tones": {}
-    },
-    {
-      "name": "Alto Preço",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "273",
-      "tones": {}
-    },
-    {
-      "name": "Oceanos",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "274",
-      "tones": {}
-    },
-    {
-      "name": "Abre Senhor os meus olhos",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Toma o meu coração",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Quero ser como criança",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Pra quê?",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
+      "number": 29,
       "tones": {}
     },
     {
@@ -857,27 +297,937 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "",
+      "number": 30,
       "tones": {}
     },
     {
-      "name": "Todas as coisas",
+      "name": "Diante da cruz",
       "author": "",
       "band": "",
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "",
+      "number": 31,
       "tones": {}
     },
     {
-      "name": "Jesus, o bom amigo",
+      "name": "Falar com Deus",
       "author": "",
       "band": "",
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "",
+      "number": 32,
+      "tones": {}
+    },
+    {
+      "name": "O cálice",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 33,
+      "tones": {}
+    },
+    {
+      "name": "Canção do Apocalipse",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 34,
+      "tones": {}
+    },
+    {
+      "name": "Deus de Promessas",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 35,
+      "tones": {}
+    },
+    {
+      "name": "Ensina-me",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 36,
+      "tones": {}
+    },
+    {
+      "name": "Se Eu Me Humilhar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 37,
+      "tones": {}
+    },
+    {
+      "name": "Tu és minha vida",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 38,
+      "tones": {}
+    },
+    {
+      "name": "Não tardará",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 39,
+      "tones": {}
+    },
+    {
+      "name": "Santo pra Sempre",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 40,
+      "tones": {}
+    },
+    {
+      "name": "Eu navegarei",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 41,
+      "tones": {}
+    },
+    {
+      "name": "Buscai primeiro o reino de Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 42,
+      "tones": {}
+    },
+    {
+      "name": "Um coração para amar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 43,
+      "tones": {}
+    },
+    {
+      "name": "Oh quão lindo esse nome é",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 44,
+      "tones": {}
+    },
+    {
+      "name": "Aclame ao Senhor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 45,
+      "tones": {}
+    },
+    {
+      "name": "Bondade de Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 46,
+      "tones": {}
+    },
+    {
+      "name": "Adorador por excelência",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 47,
+      "tones": {}
+    },
+    {
+      "name": "Isaías 9",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 48,
+      "tones": {}
+    },
+    {
+      "name": "Sou um Milagre",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 49,
+      "tones": {}
+    },
+    {
+      "name": "Eu Nasci de Novo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 50,
+      "tones": {}
+    },
+    {
+      "name": "Jesus Cristo mudou meu viver",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 51,
+      "tones": {}
+    },
+    {
+      "name": "Sonda-me, usa-me",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 52,
+      "tones": {}
+    },
+    {
+      "name": "Move as águas",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 53,
+      "tones": {}
+    },
+    {
+      "name": "Pra quê?",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 54,
+      "tones": {}
+    },
+    {
+      "name": "No mundo a gente chora",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 55,
+      "tones": {}
+    },
+    {
+      "name": "Bom estarmos aqui",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 56,
+      "tones": {}
+    },
+    {
+      "name": "Alto Preço",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 57,
+      "tones": {}
+    },
+    {
+      "name": "Deus é fiel",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 58,
+      "tones": {}
+    },
+    {
+      "name": "Plano Perfeito",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 59,
+      "tones": {}
+    },
+    {
+      "name": "Nos braços do Pai",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 60,
+      "tones": {}
+    },
+    {
+      "name": "Tudo o que sou",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 62,
+      "tones": {}
+    },
+    {
+      "name": "Madeiro Lavrado",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 64,
+      "tones": {}
+    },
+    {
+      "name": "Mandamento de amor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 65,
+      "tones": {}
+    },
+    {
+      "name": "Como zaqueu",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 67,
+      "tones": {}
+    },
+    {
+      "name": "Cura Senhor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 68,
+      "tones": {}
+    },
+    {
+      "name": "Meu barquinho",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 70,
+      "tones": {}
+    },
+    {
+      "name": "Rosa Vermelha",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 71,
+      "tones": {}
+    },
+    {
+      "name": "Família",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 72,
+      "tones": {}
+    },
+    {
+      "name": "Soldado Ferido",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 73,
+      "tones": {}
+    },
+    {
+      "name": "Renova-me",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 74,
+      "tones": {}
+    },
+    {
+      "name": "A ti meu Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 75,
+      "tones": {}
+    },
+    {
+      "name": "Bem vindo a família",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 76,
+      "tones": {}
+    },
+    {
+      "name": "Quão grande é o meu Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 77,
+      "tones": {}
+    },
+    {
+      "name": "Ao estrugir da trombeta",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 78,
+      "tones": {}
+    },
+    {
+      "name": "Vitorioso és",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 79,
+      "tones": {}
+    },
+    {
+      "name": "Cria em Mim, Ó Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 80,
+      "tones": {}
+    },
+    {
+      "name": "Adorar a Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 81,
+      "tones": {}
+    },
+    {
+      "name": "Ao único",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 82,
+      "tones": {}
+    },
+    {
+      "name": "Divino Companheiro",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 83,
+      "tones": {}
+    },
+    {
+      "name": "Vou Deixar na Cruz",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 84,
+      "tones": {}
+    },
+    {
+      "name": "Emaús",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 85,
+      "tones": {}
+    },
+    {
+      "name": "Flua",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 86,
+      "tones": {}
+    },
+    {
+      "name": "Hosana",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 87,
+      "tones": {}
+    },
+    {
+      "name": "Com Humildade",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 88,
+      "tones": {}
+    },
+    {
+      "name": "Te agradeço (por se lembrar de mim)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 89,
+      "tones": {}
+    },
+    {
+      "name": "Há um barco esquecido na praia",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 90,
+      "tones": {}
+    },
+    {
+      "name": "Hora do Salvador",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 91,
+      "tones": {}
+    },
+    {
+      "name": "Abre Senhor os meus olhos (olhos do meu coração)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 92,
+      "tones": {}
+    },
+    {
+      "name": "o se",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 93,
+      "tones": {}
+    },
+    {
+      "name": "Águas Cristalinas",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 94,
+      "tones": {}
+    },
+    {
+      "name": "Minha Alma Engrandece ao Senhor / Adorado",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 95,
+      "tones": {}
+    },
+    {
+      "name": "Oceanos",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 96,
+      "tones": {}
+    },
+    {
+      "name": "Algo Novo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 97,
+      "tones": {}
+    },
+    {
+      "name": "Santidade",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 98,
+      "tones": {}
+    },
+    {
+      "name": "Luz do mundo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 99,
+      "tones": {}
+    },
+    {
+      "name": "Meu Respirar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 100,
+      "tones": {}
+    },
+    {
+      "name": "Bem Mais que Tudo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 101,
+      "tones": {}
+    },
+    {
+      "name": "Vim para adorar-te",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 102,
+      "tones": {}
+    },
+    {
+      "name": "Essa paz que eu sinto",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 103,
+      "tones": {}
+    },
+    {
+      "name": "Pra sempre",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 104,
+      "tones": {}
+    },
+    {
+      "name": "Aleluia - Pai eu quero te amar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 105,
+      "tones": {}
+    },
+    {
+      "name": "Quem pode livrar como o Senhor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 106,
+      "tones": {}
+    },
+    {
+      "name": "Te agradeço",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 107,
+      "tones": {}
+    },
+    {
+      "name": "Só em Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 108,
+      "tones": {}
+    },
+    {
+      "name": "O teu trabalho é descansar em mim",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 109,
+      "tones": {}
+    },
+    {
+      "name": "Tu Sondas",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 110,
+      "tones": {}
+    },
+    {
+      "name": "Jesus Virá",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 111,
+      "tones": {}
+    },
+    {
+      "name": "Primeira Essência",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 112,
+      "tones": {}
+    },
+    {
+      "name": "Agnus Dei",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 113,
+      "tones": {}
+    },
+    {
+      "name": "Rendido Estou",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 114,
+      "tones": {}
+    },
+    {
+      "name": "Toma o meu coração",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 115,
+      "tones": {}
+    },
+    {
+      "name": "Coração Igual ao Teu",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 116,
+      "tones": {}
+    },
+    {
+      "name": "Se isso não for amor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 117,
+      "tones": {}
+    },
+    {
+      "name": "Espírito de Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 118,
+      "tones": {}
+    },
+    {
+      "name": "Espírito, Enche Minha Vida",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 119,
+      "tones": {}
+    },
+    {
+      "name": "Deus vai fazer (já vai faz um tempo)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 120,
+      "tones": {}
+    },
+    {
+      "name": "Poder do teu amor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 121,
+      "tones": {}
+    },
+    {
+      "name": "Terra Seca",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 122,
+      "tones": {}
+    },
+    {
+      "name": "Obrigado Deus - Já parou para pensar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 123,
+      "tones": {}
+    },
+    {
+      "name": "Meu mestre - A minha vida é do mestre",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 124,
+      "tones": {}
+    },
+    {
+      "name": "Seja Engrandecido",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 129,
+      "tones": {}
+    },
+    {
+      "name": "Creio que Tu És a Cura",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 131,
+      "tones": {}
+    },
+    {
+      "name": "Teu Santo Nome",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 139,
       "tones": {}
     },
     {
@@ -887,11 +1237,531 @@
       "category": "A classificar",
       "active": true,
       "chord": "",
-      "number": "",
+      "number": 144,
       "tones": {}
     },
     {
-      "name": "Essa paz que eu sinto",
+      "name": "Envia Tua Unção (Bem Inicial)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 146,
+      "tones": {}
+    },
+    {
+      "name": "Há um Lugar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 147,
+      "tones": {}
+    },
+    {
+      "name": "Não temas",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 149,
+      "tones": {}
+    },
+    {
+      "name": "Hosana (Eu vejo o rei da glória)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 151,
+      "tones": {}
+    },
+    {
+      "name": "Atrai o meu coração",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 152,
+      "tones": {}
+    },
+    {
+      "name": "Abraão e Isaque",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 153,
+      "tones": {}
+    },
+    {
+      "name": "Deus é maior",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 154,
+      "tones": {}
+    },
+    {
+      "name": "Jesus És o Meu Amado",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 157,
+      "tones": {}
+    },
+    {
+      "name": "Jesus é o caminho",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 168,
+      "tones": {}
+    },
+    {
+      "name": "Poderoso Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 185,
+      "tones": {}
+    },
+    {
+      "name": "Medley – Poderoso Deus, Leva-me Além e Águas Purificadoras",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 186,
+      "tones": {}
+    },
+    {
+      "name": "Tua Graça Me Basta",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 193,
+      "tones": {}
+    },
+    {
+      "name": "A cada passo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 196,
+      "tones": {}
+    },
+    {
+      "name": "Em Tua Presença",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 197,
+      "tones": {}
+    },
+    {
+      "name": "Andam Procurando",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 501,
+      "tones": {}
+    },
+    {
+      "name": "Tu és Senhor do Universos",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 502,
+      "tones": {}
+    },
+    {
+      "name": "Senhor, Te Quero",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 503,
+      "tones": {}
+    },
+    {
+      "name": "Doce Amor de Meu Mestre",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 504,
+      "tones": {}
+    },
+    {
+      "name": "Único Caminho",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 505,
+      "tones": {}
+    },
+    {
+      "name": "Jesus em tua presença",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 506,
+      "tones": {}
+    },
+    {
+      "name": "O Nosso General é Cristo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 507,
+      "tones": {}
+    },
+    {
+      "name": "Geração que dança",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 508,
+      "tones": {}
+    },
+    {
+      "name": "Reunidos Aqui",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 509,
+      "tones": {}
+    },
+    {
+      "name": "Tu És Santo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 510,
+      "tones": {}
+    },
+    {
+      "name": "Fico Feliz",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 511,
+      "tones": {}
+    },
+    {
+      "name": "Meu pensamento é para Ti",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 512,
+      "tones": {}
+    },
+    {
+      "name": "O Senhor é bom (e eterna é sua misericórdia)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 513,
+      "tones": {}
+    },
+    {
+      "name": "Aquele que está feliz",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 514,
+      "tones": {}
+    },
+    {
+      "name": "Autoridade e Poder",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 515,
+      "tones": {}
+    },
+    {
+      "name": "Bem-aventurado é o que Está",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 516,
+      "tones": {}
+    },
+    {
+      "name": "Celebrai com Júbilo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 517,
+      "tones": {}
+    },
+    {
+      "name": "Reina em Mim",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 518,
+      "tones": {}
+    },
+    {
+      "name": "A Alegria Está no Coração",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 519,
+      "tones": {}
+    },
+    {
+      "name": "Frutos do Espírito",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 520,
+      "tones": {}
+    },
+    {
+      "name": "A Cristo dai louvor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 521,
+      "tones": {}
+    },
+    {
+      "name": "Aleluia, Cristo Vivo Está",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 522,
+      "tones": {}
+    },
+    {
+      "name": "Dias de Elias",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 523,
+      "tones": {}
+    },
+    {
+      "name": "Louvado Seja o Meu Senhor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 524,
+      "tones": {}
+    },
+    {
+      "name": "Leão de Judá (Ouve-se o júbilo de todos os povos)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 525,
+      "tones": {}
+    },
+    {
+      "name": "Vem está é a hora",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 526,
+      "tones": {}
+    },
+    {
+      "name": "Eu Te Quero",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 528,
+      "tones": {}
+    },
+    {
+      "name": "Tu És Senhor do Universo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 529,
+      "tones": {}
+    },
+    {
+      "name": "A Minha Vida Jesus Já Transformou",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 530,
+      "tones": {}
+    },
+    {
+      "name": "Sua Vida É Para Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 531,
+      "tones": {}
+    },
+    {
+      "name": "Alegrai-vos Sempre no Senhor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 534,
+      "tones": {}
+    },
+    {
+      "name": "O Nosso Encontro Vai Ser Abençoado",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 535,
+      "tones": {}
+    },
+    {
+      "name": "Vitória no Deserto",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 542,
+      "tones": {}
+    },
+    {
+      "name": "Vou Te Alegrar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 545,
+      "tones": {}
+    },
+    {
+      "name": "Que a Paz de Deus Reine",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 550,
+      "tones": {}
+    },
+    {
+      "name": "Com Muito Louvor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 551,
+      "tones": {}
+    },
+    {
+      "name": "Uma Nova História",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 555,
+      "tones": {}
+    },
+    {
+      "name": "Nada Além do Sangue",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": 556,
+      "tones": {}
+    },
+    {
+      "name": "176 - Segurança (Canta Minh'alma)",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -911,7 +1781,7 @@
       "tones": {}
     },
     {
-      "name": "Te amo Deus",
+      "name": "A Melhor Coisa",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -921,7 +1791,7 @@
       "tones": {}
     },
     {
-      "name": "Luz do mundo",
+      "name": "Abraça-me",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -931,7 +1801,7 @@
       "tones": {}
     },
     {
-      "name": "Rica promessa",
+      "name": "Abre Senhor os meus olhos",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -941,7 +1811,7 @@
       "tones": {}
     },
     {
-      "name": "Isaías 9",
+      "name": "Águas Purificadoras (Existe um Rio)",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -951,7 +1821,7 @@
       "tones": {}
     },
     {
-      "name": "Jesus em tua presença",
+      "name": "Águas Purificadoras (Junto ao Poço Estava Eu)",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -961,7 +1831,7 @@
       "tones": {}
     },
     {
-      "name": "Porque Ele vive",
+      "name": "Aleluia",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -971,7 +1841,7 @@
       "tones": {}
     },
     {
-      "name": "Cegueira e vista",
+      "name": "Alvo Mais que a Neve",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -981,7 +1851,7 @@
       "tones": {}
     },
     {
-      "name": "O melhor lugar do Mundo",
+      "name": "Brilho Celeste (Hinário)",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -991,57 +1861,7 @@
       "tones": {}
     },
     {
-      "name": "Quão grande é o meu Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Dias de Elias",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Diante da cruz",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Da linda pátria",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Vim para adorar-te",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Oh quão lindo esse nome é",
+      "name": "Caminho no Deserto",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1061,7 +1881,7 @@
       "tones": {}
     },
     {
-      "name": "Deus de Promessas",
+      "name": "Cegueira e vista",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1071,7 +1891,7 @@
       "tones": {}
     },
     {
-      "name": "Eu Me Rendo",
+      "name": "Celebrai a Cristo",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1091,7 +1911,7 @@
       "tones": {}
     },
     {
-      "name": "Sonhos de Deus",
+      "name": "Da linda pátria",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1101,7 +1921,17 @@
       "tones": {}
     },
     {
-      "name": "Jesus És o Meu Amado",
+      "name": "De Valor em Valor",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Descansarei",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1121,27 +1951,7 @@
       "tones": {}
     },
     {
-      "name": "Poderoso Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Autoridade e Poder",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Digno é o Senhor",
+      "name": "Espero em Ti",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1171,7 +1981,7 @@
       "tones": {}
     },
     {
-      "name": "Coração Igual ao Teu",
+      "name": "Eu Me Rendo",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1181,7 +1991,7 @@
       "tones": {}
     },
     {
-      "name": "Primeira Essência",
+      "name": "Família (Vem Desfrutar do Amor de Deus)",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1191,97 +2001,7 @@
       "tones": {}
     },
     {
-      "name": "Espírito, Enche Minha Vida",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Meu Respirar",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Há um Lugar",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Rendido Estou",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Bem Mais que Tudo",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Medley – Celebrai com Júbilo e Quero Te Dar a Paz",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Bem-aventurado é o que Está",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Abraça-me",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Minha Alma Engrandece ao Senhor / Adorado",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Alvo Mais que a Neve",
+      "name": "Faz Chover (Derrama a Chuva Nesse Lugar)",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1301,27 +2021,7 @@
       "tones": {}
     },
     {
-      "name": "A Melhor Coisa",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Aleluia",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Valor de uma Alma",
+      "name": "Graças Dou",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1341,7 +2041,7 @@
       "tones": {}
     },
     {
-      "name": "Rude Cruz",
+      "name": "Hosana nas Alturas",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1351,7 +2051,7 @@
       "tones": {}
     },
     {
-      "name": "Senhor, Te Quero",
+      "name": "Jesus, o bom amigo",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1361,387 +2061,7 @@
       "tones": {}
     },
     {
-      "name": "Com Humildade",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Medley – Poderoso Deus, Leva-me Além e Águas Purificadoras",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Vento Impetuoso",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Oceano do Espírito",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Terra Seca",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Águas Purificadoras (Junto ao Poço Estava Eu)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Caminho no Deserto",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Creio que Tu És a Cura",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Grande é o Senhor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Vou Deixar na Cruz",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Vem Cear",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Envia Tua Unção (Bem Inicial)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Reina em Mim",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "176 - Segurança (Canta Minh'alma)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Cria em Mim, Ó Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Tu És Fiel",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Seja Engrandecido",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Graças Dou",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Descansarei",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Solta o Cabo da Nau - HCJ",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "A Alegria Está no Coração",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Medley – Consagração + Quão Formoso És",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Ele é Exaltado",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Sobre Toda Terra",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Poder pra Salvar",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Terra Feliz",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Teu Santo Nome",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Eu Nasci de Novo",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Santo pra Sempre",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Meu Prazer (Em Espírito e em Verdade)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Celebrai a Cristo",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Vencendo Vem Jesus (HCJ - 116)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Espero em Ti",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Mais Perto Quero Estar",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "O Poder do Sangue - 166 (Após a Pregação)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Senhor, Tu És Bom",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Aclame ao Senhor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Brilho Celeste (Hinário)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Águas Purificadoras (Existe um Rio)",
+      "name": "Jubilosos te adoramos",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1761,7 +2081,7 @@
       "tones": {}
     },
     {
-      "name": "Tu Sondas",
+      "name": "Mais Perto Quero Estar",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1771,7 +2091,7 @@
       "tones": {}
     },
     {
-      "name": "Fico Feliz",
+      "name": "Marca da Promessa",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1781,7 +2101,7 @@
       "tones": {}
     },
     {
-      "name": "Celebrai com Júbilo",
+      "name": "Medley – Celebrai com Júbilo e Quero Te Dar a Paz",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1791,7 +2111,37 @@
       "tones": {}
     },
     {
-      "name": "Vaso de Bênção",
+      "name": "Medley – Consagração + Quão Formoso És",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Meu Universo",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "O Poder do Sangue - 166 (Após a Pregação)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Oceano do Espírito",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1811,7 +2161,77 @@
       "tones": {}
     },
     {
-      "name": "Eu Escolho Te Louvar",
+      "name": "Pai, Quero Te Amar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Poder pra Salvar",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Porque Ele vive",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Quebrantado",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Quero ser como criança",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Rica promessa",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Rompendo em Fé",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Rude Cruz",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1831,6 +2251,56 @@
       "tones": {}
     },
     {
+      "name": "Senhor, Tu És Bom",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Sobre Toda Terra",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Solta o Cabo da Nau - HCJ",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Sonhos de Deus",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Sou Casa",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
       "name": "Sou Feliz",
       "author": "",
       "band": "",
@@ -1841,7 +2311,7 @@
       "tones": {}
     },
     {
-      "name": "Pai, Quero Te Amar",
+      "name": "Te amo Deus",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1851,7 +2321,7 @@
       "tones": {}
     },
     {
-      "name": "Tua Graça Me Basta",
+      "name": "Terra Feliz",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1881,96 +2351,6 @@
       "tones": {}
     },
     {
-      "name": "Sou Casa",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Falar com Deus",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Quando Jesus Estendeu Sua Mão",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Em Tua Presença",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "De Valor em Valor",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Marca da Promessa",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Faz Chover (Derrama a Chuva Nesse Lugar)",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Quebrantado",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
-      "name": "Hosana nas Alturas",
-      "author": "",
-      "band": "",
-      "category": "A classificar",
-      "active": true,
-      "chord": "",
-      "number": "",
-      "tones": {}
-    },
-    {
       "name": "Teus Olhos Revelam",
       "author": "",
       "band": "",
@@ -1981,7 +2361,7 @@
       "tones": {}
     },
     {
-      "name": "Rompendo em Fé",
+      "name": "Todas as coisas",
       "author": "",
       "band": "",
       "category": "A classificar",
@@ -1991,7 +2371,57 @@
       "tones": {}
     },
     {
-      "name": "Família (Vem Desfrutar do Amor de Deus)",
+      "name": "Tu És Fiel",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Valor de uma Alma",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Vaso de Bênção",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Vem Cear",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Vencendo Vem Jesus (HCJ - 116)",
+      "author": "",
+      "band": "",
+      "category": "A classificar",
+      "active": true,
+      "chord": "",
+      "number": "",
+      "tones": {}
+    },
+    {
+      "name": "Vento Impetuoso",
       "author": "",
       "band": "",
       "category": "A classificar",
